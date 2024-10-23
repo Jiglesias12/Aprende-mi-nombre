@@ -10,8 +10,9 @@ Fumadón para que luego os aprendáis mi nombre de rebote
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1> QUE GYMKANA verdad?? 
+   
+QUE GYMKANA verdad?? 
         
-        Pero aun no os sabeis mi nombre.Ya estamos mas cerca de saberlo.</h1>
+        Pero aun no os sabeis mi nombre.Ya estamos mas cerca de saberlo.
 </body>
 </html>
