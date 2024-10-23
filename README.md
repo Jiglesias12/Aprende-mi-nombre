@@ -17,7 +17,7 @@ QUE GYMKANA verdad??
 
 Escribir código es mi nueva pasión, pero las aventuras me molan mas. Para hacerlo corto este será el ultimo paso.
 
-EMILIO... NIEVES... ¿COMO ME LLAMARÉ? quizá ya os lo sabeis y estoy haciendo la paranoia pero al menos asi os acordareis del colgao que hizo una página en github
+EMILIO... NIEVES... ¿COMO ME LLAMARÉ? quizá ya os lo sabeis y estoy haciendo la paranoia pero al menos asi os acordareis del colgao que hizo una página en github para haceros una adivinanza
 
 Si mi nombre quereis saber un cantante teneis que conocer, su nombre era algo molón en ingles pero cambio su moda y ahora recicla como todo un casanova. La poesía no es lo mio pero creo que es claro...
 
